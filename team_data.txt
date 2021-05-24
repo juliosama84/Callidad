@@ -1,0 +1,28 @@
+
+POKEMON Skittles
+POKEDEX_ID: 300
+ESPECIE: skitty  TIPO: normal
+------------------------
+MOVIMIENTO 1: frustration
+MOVIMIENTO 2: return
+MOVIMIENTO 3: 
+MOVIMIENTO 4: 
+    
+POKEMON Pikachuy
+POKEDEX_ID: 25
+ESPECIE: pikachu  TIPO: electric
+------------------------
+MOVIMIENTO 1: surf
+MOVIMIENTO 2: thunder
+MOVIMIENTO 3: quick-attack
+MOVIMIENTO 4: 
+    
+POKEMON 
+POKEDEX_ID: 248
+ESPECIE: tyranitar  TIPO: rock-dark
+------------------------
+MOVIMIENTO 1: 
+MOVIMIENTO 2: 
+MOVIMIENTO 3: 
+MOVIMIENTO 4: 
+    

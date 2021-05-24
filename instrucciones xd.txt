@@ -1,0 +1,13 @@
+estan la clase main que es donde se lleva a cabo lo de las opciones
+ahi se importa solo a la clase que llame domain
+la clase domain es donde ocurre la magia
+en la clase domain estan los metodos de insercion y get data
+y tambien cosas del api
+domain importa la clase del api y otra clase que llame dao
+dao es una clase que nos ayuda a la interaccion con la base de datos
+entonces las capas estan asi
+main - interaccion con usuario
+domain - aqui se hace logica y llenado de objeto con api y con datos que trae desde el main
+api - en esta clase se hacen las consultas al api y retorna lo que le digas
+dao - esta clase solo se encarga de traer y mandar datos a la base de datos
+y pues tambien estan las clases objeto que son pokemon,equipo y entrenador
