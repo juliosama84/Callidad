@@ -1,0 +1,16 @@
+language : python
+python:
+  - 3.8
+services:
+  - mysql
+addons:
+  apt:
+    packages:
+    - unixodbc-dev
+    - python-mysqldb
+install:
+  - pip install pyodbc
+  - pip install requests
+script: 
+  - python3 domainMock.py
+  - python3 api_mock.py
