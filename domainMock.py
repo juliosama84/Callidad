@@ -22,7 +22,7 @@ class testMockDomain(unittest.TestCase):
     def test_eliminar_equipo(self,mock_get):
      llamar=insertarDatos()
     
-     resultado_esperado=""
+     resultado_esperado="Se borraron los pokemon correctamente"
      resultado_actual=llamar.eliminarEquipo("mock",1)
      
      assert resultado_esperado==resultado_actual
